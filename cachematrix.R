@@ -42,12 +42,6 @@ makeCacheMatrix <- function(mat = matrix()) {
 
 
 ################################
-# Methods:
-#   set: Setter for the matrix
-#   get: Getter for the matrix
-#   setinv: Setter for the inverse
-#   getinv: Getter for the inverse
-#
 # Returns:
 #   This function computes the inverse of the special "matrix" 
 #   returned by makeCacheMatrix above. If the inverse has already 
